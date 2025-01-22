@@ -18,3 +18,4 @@ BrainWave is a modern UI/UX web application developed using React.js and Tailwin
 4. Complex UI Components: Designed using Tailwind CSS, including circular displays, grids, and side lines.
 5. Modern UI Trends: Integrates latest design elements like bento grids and stylish gradients.
 6. Interactive UI: Smooth transitions, hover effects, and stylish animations that improve user experience.
+hello i am harman
